@@ -1,0 +1,1 @@
+A machine learning model predicting Olympic medal outcomes based on past performance and athlete participation. Utilized Pandas for data preprocessing, Scikit-learn for model building, and Seaborn for visualizations. Achieved a prediction accuracy of 99.988% for a specific country.
